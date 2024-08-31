@@ -7,7 +7,7 @@ fi
 
 while true
 do
-    clear
+       
     echo "Menu:"
     echo "1. Accept personal details and password"
     echo "2. Display personal details"

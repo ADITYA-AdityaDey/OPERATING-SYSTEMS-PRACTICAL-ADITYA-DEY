@@ -2,7 +2,7 @@
 
 while true
 do
-    clear
+     
     echo "Menu:"
     echo "1. Show the permissions of a file or directory"
     echo "2. Show the number of files and directories under current directory separately"
